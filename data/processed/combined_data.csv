@@ -1,0 +1,26 @@
+name,age_group,gender,bmi,training_category,early_life_training,end_range_control,weekly_volume,injury_presence,chronic_pain,sleep_duration,sleep_quality,physical_recovery,mental_recovery,stress_score,sitting_time,sedentary_score,hypermobility,mwi
+P16,30-39,Male,25.7,Strength-dominant,Endurance-based,Sometimes,2–5 hours,No,Mild pain,6–8 hours,6.2,3,3,1.33,5,3,No,0.31095664384285715
+P03,18-29,Female,22.2,Hybrid,Mixed / hybrid,Sometimes,2–5 hours,Yes,No pain,6–8 hours,6.2,5,3,1.67,7,2,Yes,0.26106094838125
+P24,50-59,Male,23.8,Low Active,Endurance-based,Always,Less than 2 hours,Yes,Moderate pain,6–8 hours,6.2,2,5,1.33,7,2,No,0.314544301
+P22,50-59,Female,22.8,Hybrid,Flexibility-based,Often,2–5 hours,No,No pain,6–8 hours,7.5,4,4,0.33,5,0,No,0.25551312776857144
+P06,18-29,Female,20.3,Hybrid,Flexibility-based,Often,5–10 hours,No,No pain,6–8 hours,6.2,3,5,1.67,5,0,Yes,0.1654920747043857
+P12,18-29,Female,17.2,Strength-dominant,Endurance-based,Often,5–10 hours,No,Mild pain,More than 8 hours,8.8,3,5,1.0,7,0,No,0.36568088592857145
+P04,40-49,Female,18.6,Flexibility-dominant,Flexibility-based,Always,More than 10 hours,Yes,No pain,6–8 hours,10.0,6,6,0.33,9,3,Yes,0.34818685173749997
+P19,18-29,Male,25.0,Strength-dominant,Mixed / hybrid,Never,2–5 hours,No,No pain,6–8 hours,5.0,1,6,1.0,9,8,Yes,0.35768528532500005
+P21,18-29,Female,20.4,Hybrid,Flexibility-based,Often,5–10 hours,No,No pain,6–8 hours,7.5,4,2,1.33,5,1,Yes,0.317125769475625
+P05,18-29,Female,20.3,Flexibility-dominant,Strength-based,Often,2–5 hours,No,No pain,6–8 hours,3.8,2,3,2.0,7,4,No,0.2496073205357143
+P13,18-29,Female,20.7,Flexibility-dominant,Flexibility-based,Sometimes,2–5 hours,No,No pain,6–8 hours,3.8,4,2,2.33,9,5,Yes,0.3414173400714286
+P09,18-29,Female,22.6,Hybrid,Endurance-based,Never,2–5 hours,No,Mild pain,6–8 hours,10.0,4,5,0.67,5,5,No,0.182098697282
+P08,18-29,Female,22.2,Hybrid,Flexibility-based,Sometimes,2–5 hours,No,No pain,6–8 hours,7.5,4,2,0.0,9,6,No,0.3057425618371429
+P20,18-29,Female,20.4,Flexibility-dominant,Mixed / hybrid,Often,5–10 hours,Yes,Moderate pain,6–8 hours,0.0,5,5,3.0,9,1,Yes,0.35797885818874997
+P07,30-39,Female,21.3,Hybrid,Flexibility-based,Sometimes,5–10 hours,No,No pain,6–8 hours,2.5,2,6,0.33,9,5,No,0.3586195750142857
+P01,18-29,Female,23.4,Low Active,Flexibility-based,Often,Less than 2 hours,No,No pain,More than 8 hours,5.0,5,6,1.0,7,5,No,0.3859839366816667
+P15,30-39,Female,19.5,Flexibility-dominant,Mixed / hybrid,Often,2–5 hours,No,No pain,6–8 hours,10.0,5,6,0.0,7,2,No,0.24282822349571426
+P17,18-29,Male,29.7,Flexibility-dominant,Flexibility-based,Often,2–5 hours,No,No pain,Less than 4 hours,5.0,1,6,2.33,7,4,Yes,0.25017787776714284
+P10,18-29,Male,25.1,Strength-dominant,Strength-based,Often,5–10 hours,Yes,Mild pain,6–8 hours,5.0,3,5,0.33,7,2,No,0.24365307740500003
+P25,30-39,Female,20.6,Flexibility-dominant,No clear dominant,Often,5–10 hours,No,Moderate pain,More than 8 hours,5.0,5,5,1.67,7,6,Yes,0.3102194718371428
+P11,18-29,Male,20.2,Hybrid,Mixed / hybrid,Always,2–5 hours,Yes,No pain,6–8 hours,7.5,2,6,1.33,7,1,No,0.37818333032857143
+P14,30-39,Female,20.3,Hybrid,Mixed / hybrid,Often,5–10 hours,Yes,No pain,6–8 hours,7.5,5,5,0.67,7,1,Yes,0.10985472475375
+P18,30-39,Male,23.0,Low Active,Endurance-based,Sometimes,2–5 hours,Yes,No pain,6–8 hours,7.5,2,4,1.33,7,4,No,0.3359611000375
+P23,18-29,Female,21.2,Hybrid,Mixed / hybrid,Often,2–5 hours,No,No pain,6–8 hours,6.2,5,4,1.33,7,4,No,0.22917798614333332
+P02,18-29,Male,22.6,Strength-dominant,Mixed / hybrid,Often,5–10 hours,No,No pain,6–8 hours,5.0,1,1,1.33,9,4,No,0.3009464555416667
