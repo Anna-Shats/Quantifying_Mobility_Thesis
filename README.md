@@ -48,9 +48,9 @@ Run in order — each notebook reads from `data/processed/` and the later ones d
 |---|---|---|
 | 01 | `01_data_cleaning.ipynb` | Loads the Health & Lifestyle survey, renames columns, computes BMI, derives composite variables (sleep quality, stress score, recovery scores), classifies training category, saves `combined_data.csv` |
 | 02 | `02_hypermobility.ipynb` | Loads Beighton assessment, applies age-adjusted hypermobility thresholds (≥ 5/9 for adults 18–49), merges `hypermobility` column into `combined_data.csv` |
-| 03 | `03_mwi_computation.ipynb` | Loads `MWI_raw.csv`, extracts mi4l scores per pose, computes composite MWI per participant, flags missing poses, merges MWI into `combined_data.csv` |
-| 04 | `04_pose_analysis.ipynb` | Per-pose score distributions, bilateral symmetry analysis (Kneeling Knee Flexion & Standing Hip Abduction), Spearman correlations between individual poses and overall MWI |
-| 05 | `05_eda_basic.ipynb` | Sample description, missing data audit, categorical and continuous variable distributions, outlier detection, full Spearman correlation matrix |
+| 03 | `03_mwi_computation.ipynb` | Loads `MWI_raw.csv`, computes composite MWI per participant, flags missing poses, merges MWI into `combined_data.csv` |
+| 04 | `04_pose_analysis.ipynb` | Per-pose score distributions, bilateral symmetry analysis, Spearman correlations between individual poses and overall MWI |
+| 05 | `05_eda_basic.ipynb` | Sample description, missing data, categorical and continuous variable distributions, outlier detection, full Spearman correlation matrix |
 | 06 | `06_eda_advanced.ipynb` | MWI distribution and patterns by training category, PROM/AROM/ratio analysis, group comparison profiles (continuous + categorical variables), radar chart |
 | 07 | `07_hypothesis_testing.ipynb` | Bivariate screening (Spearman ρ for continuous, Mann-Whitney U / Kruskal-Wallis for categorical), Beta regression (primary) and OLS (benchmark), bootstrap 95% CI for sitting_time, residual diagnostics |
 
@@ -67,7 +67,7 @@ Run in order — each notebook reads from `data/processed/` and the later ones d
 | `gender` | binary | Female / Male |
 | `bmi` | continuous | Body mass index |
 | `training_category` | nominal | Low Active / Strength-dominant / Flexibility-dominant / Hybrid |
-| `early_life_training` | nominal | Dominant training background before age 18 |
+| `early_life_training` | nominal | Dominant training background 
 | `end_range_control` | ordinal | Never / Sometimes / Often / Always |
 | `weekly_volume` | ordinal | Training hours per week (4 levels) |
 | `injury_presence` | binary | Current injury Yes / No |
